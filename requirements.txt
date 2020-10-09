@@ -2,3 +2,4 @@ requests~=2.24.0
 Flask~=1.1.2
 flask_cors~=3.0.9
 beautifulsoup4~=4.9.3
+schedule~=0.6.0
